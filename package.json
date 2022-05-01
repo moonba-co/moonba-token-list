@@ -1,10 +1,10 @@
 {
-  "name": "@oneledger/syndicate-token-list",
-  "version": "0.2.4",
-  "description": "Syndicate default token list",
-  "main": "syndicate.token-list.json",
-  "repository": "git@github.com:oneledger/syndicate-token-list.git",
-  "author": "DeV1doR <bogdan@oneledger.io>",
+  "name": "@moonba-co/moonba-token-list",
+  "version": "0.1.0",
+  "description": "Moonba default token list",
+  "main": "moonba.token-list.json",
+  "repository": "git@github.com:moonba-co/moonba-token-list.git",
+  "author": "m-bo-one <bogdan@moonba.co>",
   "license": "MIT",
   "devDependencies": {
     "@ethersproject/address": "^5.4.0",
@@ -28,8 +28,8 @@
     "prepack": "npm run build && git add ."
   },
   "files": [
-    "syndicate.token-list.json",
-    "syndicate-experimental.token-list.json"
+    "moonba.token-list.json",
+    "moonba-experimental.token-list.json"
   ],
   "prettier": {}
 }

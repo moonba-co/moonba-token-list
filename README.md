@@ -1,10 +1,10 @@
-# Syndicate Token List
+# Moonba Token List
 
-Official token list of [Syndicate bridge](https://syndicate-bridge.oneledger.network).
+Official token list of [Moonba](https://moonba.co).
 
 ## Contributing
 
-To add a token to Syndicate bridge:
+To add a token to Moonba:
 
 1. Install dependencies via `yarn install`. Note: you must be on Node.js 14.x or later to do this.
 2. Add your token's logo to `assets/`

@@ -1,13 +1,13 @@
-import syndicateList from "../syndicate.token-list.json";
-import syndicateExperimentalList from "../syndicate-experimental.token-list.json";
+import moonbaList from "../moonba.token-list.json";
+import moonbaExperimentalList from "../moonba-experimental.token-list.json";
 import { TokenList } from "@uniswap/token-lists";
 import schema from "@uniswap/token-lists/src/tokenlist.schema.json";
 import Ajv, { Schema } from "ajv";
 import addFormats from "ajv-formats";
 import deepmerge from "deepmerge";
 
-export const defaultList: TokenList = syndicateList;
-export const experimental: TokenList = syndicateExperimentalList;
+export const defaultList: TokenList = moonbaList;
+export const experimental: TokenList = moonbaExperimentalList;
 
 const ajv = new Ajv({ allErrors: true });
 addFormats(ajv);

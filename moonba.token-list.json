@@ -1,0 +1,45 @@
+{
+  "name": "Syndicate Bridge",
+  "logoURI": "https://raw.githubusercontent.com/moonba-co/moonba-token-list/master/logo.svg",
+  "keywords": ["olt", "moonba", "defi", "bridge"],
+  "timestamp": "2022-05-01T20:30:41.837Z",
+  "tokens": [
+    {
+      "address": "0x8DF7dA2Df8D5471E29001B16d8981D641615C978",
+      "name": "Syndicate BNB",
+      "symbol": "BNB",
+      "decimals": 18,
+      "chainId": 311752642,
+      "logoURI": "https://raw.githubusercontent.com/moonba-co/moonba-token-list/master/assets/asset_sBNB.svg"
+    },
+    {
+      "address": "0xA04eC6D466AE7d40b4c92cE93C208752A35F3D7a",
+      "name": "Syndicate DigitalBits",
+      "symbol": "XDB",
+      "decimals": 7,
+      "chainId": 311752642,
+      "logoURI": "https://raw.githubusercontent.com/moonba-co/moonba-token-list/master/assets/asset_sXDB.svg"
+    },
+    {
+      "address": "0xa2a899F4B27B2bfa98f5c41A1c1f300aF652799C",
+      "name": "Syndicate BUSD",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 311752642,
+      "logoURI": "https://raw.githubusercontent.com/moonba-co/moonba-token-list/master/assets/asset_sBUSD.svg"
+    },
+    {
+      "address": "0xED344b7C2deD6143e32B03ea905e59dC2010Ce74",
+      "name": "Syndicate USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 311752642,
+      "logoURI": "https://raw.githubusercontent.com/moonba-co/moonba-token-list/master/assets/asset_sUSDT.svg"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}

@@ -1,50 +1,30 @@
 [
   {
+    "address": "0x48e821241B953F110e295fD660Bd9bF988212B4e",
+    "name": "Wrapped OneLedger Token",
+    "symbol": "WOLT",
+    "decimals": 18,
+    "isExperimental": true
+  },
+  {
     "address": "0x4E5e005c548287465665E09290734541902a4979",
     "name": "Syndicate BUSD",
     "symbol": "BUSD",
     "decimals": 18,
-    "isExperimental": true,
-    "extensions": {
-      "bridgeInfo": {
-        "97": {
-          "tokenAddress": "0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee",
-          "originBridgeAddress": "0x83Bc71C069774356469D1c79b43E346bf160757b",
-          "destBridgeAddress": "0x3BE0E4a86545F123d8b46eECecCc205BbE57Eb99"
-        }
-      }
-    }
+    "isExperimental": true
   },
   {
     "address": "0x5141e37bee838DdE7BCad93F8209E0b65b36b46C",
     "name": "Syndicate USDT",
     "symbol": "USDT",
     "decimals": 6,
-    "isExperimental": true,
-    "extensions": {
-      "bridgeInfo": {
-        "3": {
-          "tokenAddress": "0x110a13FC3efE6A245B50102D2d79B3E76125Ae83",
-          "originBridgeAddress": "0x83Bc71C069774356469D1c79b43E346bf160757b",
-          "destBridgeAddress": "0x319c42009f309e38501b52F4DBd317B927450883"
-        }
-      }
-    }
+    "isExperimental": true
   },
   {
     "address": "0xe2C65FA9Bb8Af93D16C01aD3Bb494cf81C647C18",
     "name": "Syndicate ETH",
     "symbol": "ETH",
     "decimals": 18,
-    "isExperimental": true,
-    "extensions": {
-      "bridgeInfo": {
-        "3": {
-          "tokenAddress": "0x0000000000000000000000000000000000000000",
-          "originBridgeAddress": "0x83Bc71C069774356469D1c79b43E346bf160757b",
-          "destBridgeAddress": "0x319c42009f309e38501b52F4DBd317B927450883"
-        }
-      }
-    }
+    "isExperimental": true
   }
 ]

@@ -9,7 +9,7 @@ import { requireOrNull } from "./utils/requireOrNull";
 const version = packageJSON.version.split(".");
 
 const LOGO_URI_BASE =
-  "https://raw.githubusercontent.com/oneledger/syndicate-token-list/master";
+  "https://raw.githubusercontent.com/moonba-co/moonba-token-list/master";
 
 const makeTokenList = (
   previousTokenList: TokenList | null,
@@ -26,7 +26,7 @@ const makeTokenList = (
   return {
     name: previousTokenList?.name ?? "Unknown List",
     logoURI: `${LOGO_URI_BASE}/logo.svg`,
-    keywords: ["olt", "oneledger", "syndicate", "defi", "bridge"],
+    keywords: ["olt", "moonba", "defi", "bridge"],
     timestamp,
     tokens,
     version: {
@@ -84,11 +84,11 @@ const main = async () => {
 
   const previousTokenList = requireOrNull(
     __dirname,
-    "../syndicate.token-list.json"
+    "../moonba.token-list.json"
   );
   const previousExperimentalTokenList = requireOrNull(
     __dirname,
-    "../syndicate-experimental.token-list.json"
+    "../moonba-experimental.token-list.json"
   );
 
   const tokenList = makeTokenList(previousTokenList, mainTokenListTokens);
@@ -98,12 +98,12 @@ const main = async () => {
   );
 
   await fs.writeFile(
-    __dirname + "/../syndicate.token-list.json",
+    __dirname + "/../moonba.token-list.json",
     JSON.stringify(tokenList, null, 2)
   );
 
   await fs.writeFile(
-    __dirname + "/../syndicate-experimental.token-list.json",
+    __dirname + "/../moonba-experimental.token-list.json",
     JSON.stringify(experimentalTokenList, null, 2)
   );
 };
