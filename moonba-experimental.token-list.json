@@ -2,7 +2,7 @@
   "name": "Syndicate Bridge",
   "logoURI": "https://raw.githubusercontent.com/moonba-co/moonba-token-list/master/logo.svg",
   "keywords": ["olt", "moonba", "defi", "bridge"],
-  "timestamp": "2022-05-01T20:30:41.837Z",
+  "timestamp": "2022-05-01T22:35:42.450Z",
   "tokens": [
     {
       "address": "0x01586239B56ca158f1e31e4c6A07B3Ae59D623B5",
@@ -75,11 +75,19 @@
       "decimals": 18,
       "chainId": 4216137055,
       "logoURI": "https://raw.githubusercontent.com/moonba-co/moonba-token-list/master/assets/asset_sETH.svg"
+    },
+    {
+      "address": "0xf149772d815a49BDD7C85580ebc250B6c7c90bCa",
+      "name": "Moonba",
+      "symbol": "MBA",
+      "decimals": 18,
+      "chainId": 4216137055,
+      "logoURI": "https://raw.githubusercontent.com/moonba-co/moonba-token-list/master/assets/asset_MBA.svg"
     }
   ],
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }

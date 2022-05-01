@@ -26,5 +26,12 @@
     "symbol": "ETH",
     "decimals": 18,
     "isExperimental": true
+  },
+  {
+    "address": "0xf149772d815a49BDD7C85580ebc250B6c7c90bCa",
+    "name": "Moonba",
+    "symbol": "MBA",
+    "decimals": 18,
+    "isExperimental": true
   }
 ]

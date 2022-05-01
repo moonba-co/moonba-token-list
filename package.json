@@ -1,6 +1,6 @@
 {
   "name": "@moonba-co/moonba-token-list",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Moonba default token list",
   "main": "moonba.token-list.json",
   "repository": "git@github.com:moonba-co/moonba-token-list.git",

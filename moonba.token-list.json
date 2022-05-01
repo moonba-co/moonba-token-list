@@ -2,7 +2,7 @@
   "name": "Syndicate Bridge",
   "logoURI": "https://raw.githubusercontent.com/moonba-co/moonba-token-list/master/logo.svg",
   "keywords": ["olt", "moonba", "defi", "bridge"],
-  "timestamp": "2022-05-01T20:30:41.837Z",
+  "timestamp": "2022-05-01T22:35:42.450Z",
   "tokens": [
     {
       "address": "0x8DF7dA2Df8D5471E29001B16d8981D641615C978",
@@ -40,6 +40,6 @@
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   }
 }
