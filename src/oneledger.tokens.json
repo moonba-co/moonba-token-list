@@ -7,6 +7,12 @@
     "isExperimental": true
   },
   {
+    "address": "0x14491e290e160E9B966f1e47b4f0Fd216bC8ED73",
+    "name": "Syndicate OKT",
+    "symbol": "OKT",
+    "decimals": 18
+  },
+  {
     "address": "0x8DF7dA2Df8D5471E29001B16d8981D641615C978",
     "name": "Syndicate BNB",
     "symbol": "BNB",

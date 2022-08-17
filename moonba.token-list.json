@@ -2,8 +2,16 @@
   "name": "Syndicate Bridge",
   "logoURI": "https://raw.githubusercontent.com/moonba-co/moonba-token-list/master/logo.svg",
   "keywords": ["olt", "moonba", "defi", "bridge"],
-  "timestamp": "2022-05-01T22:35:42.450Z",
+  "timestamp": "2022-08-17T02:39:29.538Z",
   "tokens": [
+    {
+      "address": "0x14491e290e160E9B966f1e47b4f0Fd216bC8ED73",
+      "name": "Syndicate OKT",
+      "symbol": "OKT",
+      "decimals": 18,
+      "chainId": 311752642,
+      "logoURI": "https://raw.githubusercontent.com/moonba-co/moonba-token-list/master/assets/asset_sOKT.svg"
+    },
     {
       "address": "0x8DF7dA2Df8D5471E29001B16d8981D641615C978",
       "name": "Syndicate BNB",
