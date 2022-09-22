@@ -3,13 +3,12 @@
     "address": "0x01586239B56ca158f1e31e4c6A07B3Ae59D623B5",
     "name": "Wrapped OneLedger Token",
     "symbol": "WOLT",
-    "decimals": 18,
-    "isExperimental": true
+    "decimals": 18
   },
   {
-    "address": "0x14491e290e160E9B966f1e47b4f0Fd216bC8ED73",
-    "name": "Syndicate OKT",
-    "symbol": "OKT",
+    "address": "0x86Bbd68a5A93f5CAc100f82b72ac1a8945f321af",
+    "name": "Syndicate WOKT",
+    "symbol": "WOKT",
     "decimals": 18
   },
   {
