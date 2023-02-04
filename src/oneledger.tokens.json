@@ -6,6 +6,12 @@
     "decimals": 18
   },
   {
+    "address": "0x7599108F62DF4E3054CE438e0C4e16856339Cf6c",
+    "name": "Syndicate USDC",
+    "symbol": "USDC",
+    "decimals": 6
+  },
+  {
     "address": "0x86Bbd68a5A93f5CAc100f82b72ac1a8945f321af",
     "name": "Syndicate WOKT",
     "symbol": "WOKT",

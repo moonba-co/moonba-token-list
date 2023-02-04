@@ -2,7 +2,7 @@
   "name": "Syndicate Bridge",
   "logoURI": "https://raw.githubusercontent.com/moonba-co/moonba-token-list/master/logo.svg",
   "keywords": ["olt", "moonba", "defi", "bridge"],
-  "timestamp": "2022-09-22T15:48:30.382Z",
+  "timestamp": "2023-02-04T14:59:18.157Z",
   "tokens": [
     {
       "address": "0x01586239B56ca158f1e31e4c6A07B3Ae59D623B5",
@@ -11,6 +11,14 @@
       "decimals": 18,
       "chainId": 311752642,
       "logoURI": "https://raw.githubusercontent.com/moonba-co/moonba-token-list/master/assets/asset_WOLT.svg"
+    },
+    {
+      "address": "0x7599108F62DF4E3054CE438e0C4e16856339Cf6c",
+      "name": "Syndicate USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 311752642,
+      "logoURI": "https://raw.githubusercontent.com/moonba-co/moonba-token-list/master/assets/asset_sUSDC.svg"
     },
     {
       "address": "0x86Bbd68a5A93f5CAc100f82b72ac1a8945f321af",
